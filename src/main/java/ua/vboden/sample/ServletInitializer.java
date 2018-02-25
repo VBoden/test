@@ -1,4 +1,4 @@
-package ua.vboden.test;
+package ua.vboden.sample;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
